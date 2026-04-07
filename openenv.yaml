@@ -1,0 +1,7 @@
+name: "CodeDoctorEnv"
+description: "A reinforcement learning environment where an AI agent acts as a reviewer to fix buggy code."
+version: 1.0.0
+tasks:
+  - task_1_easy
+  - task_2_medium
+  - task_3_hard
